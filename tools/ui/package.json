@@ -70,7 +70,7 @@
 		"mdsvex": "0.12.7",
 		"mermaid": "11.15.0",
 		"mode-watcher": "1.1.0",
-		"pdfjs-dist": "5.4.54",
+		"pdfjs-dist": "^6.2.108",
 		"playwright": "1.56.1",
 		"prettier": "3.8.3",
 		"prettier-plugin-svelte": "4.1.0",
